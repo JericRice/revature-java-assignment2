@@ -15,7 +15,9 @@ public class Assignment4 {
 			System.out.println("x is equal to 3");
 		} else {
 			System.out.println("x is not equal to 3");
-		}
+		} // end if
 	}
 
 }
+
+// completed
